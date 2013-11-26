@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Meme Now</string>
+    <string name="app_name">Voice Meme</string>
     <string name="action_start_voice_input">Start voice input</string>
     <string name="action_import_picture">Import Picture</string>
     <string name="action_add_top_text">Add top text</string>
