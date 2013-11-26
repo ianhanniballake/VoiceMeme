@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ShareActivity" >
+    
+    <item android:id="@+id/action_top_text"
+        android:title="@string/action_add_top_text"
+        android:showAsAction="always|withText" />
+
+    <item android:id="@+id/action_bottom_text"
+        android:title="@string/action_add_bottom_text"
+        android:showAsAction="always|withText" />
+</menu>

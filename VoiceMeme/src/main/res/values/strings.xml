@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Meme Now</string>
+    <string name="action_start_voice_input">Start voice input</string>
+    <string name="action_import_picture">Import Picture</string>
+    <string name="action_add_top_text">Add top text</string>
+    <string name="action_add_bottom_text">Add bottom text</string>
+    <string name="action_edit_top_text">Edit top text</string>
+    <string name="action_edit_bottom_text">Edit bottom text</string>
+    <string name="input_save">Save</string>
+    <string name="input_cancel">Cancel</string>
+
+</resources>

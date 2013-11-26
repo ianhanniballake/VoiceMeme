@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <style name="EditTextAppTheme" parent="android:Widget.EditText">
+	  <item name="android:background">@drawable/edit_text_holo_dark</item>
+	  <item name="android:textColor">#ffffff</item>
+  </style>
+
+  <style name="ListViewAppTheme" parent="android:Widget.ListView">
+      <item name="android:listSelector">@drawable/list_selector_holo_dark</item>
+  </style>
+
+  <style name="ListViewAppTheme.White" parent="android:Widget.ListView.White">
+      <item name="android:listSelector">@drawable/list_selector_holo_dark</item>
+  </style>
+
+  <style name="SpinnerItemAppTheme" parent="android:TextAppearance.Widget.TextView.SpinnerItem">
+      <item name="android:textColor">#ffffff</item>
+  </style>
+
+</resources>

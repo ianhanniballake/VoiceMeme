@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity" >
+
+    <item android:id="@+id/action_start_voice_input"
+        android:title="@string/action_start_voice_input"
+        android:showAsAction="ifRoom|withText"
+        android:icon="@drawable/ic_action_mic"/>
+
+    <item android:id="@+id/action_import_picture"
+        android:title="@string/action_import_picture"
+        android:showAsAction="ifRoom|withText"
+        android:icon="@drawable/ic_action_picture"/>
+</menu>
